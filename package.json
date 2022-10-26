@@ -10,8 +10,12 @@
     "@types/node": "^16.18.1",
     "@types/react": "^18.0.23",
     "@types/react-dom": "^18.0.7",
+    "ag-grid-community": "^28.2.0",
+    "ag-grid-react": "^28.2.0",
+    "clsx": "^1.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-jss": "^10.9.2",
     "react-scripts": "5.0.1",
     "typescript": "^4.8.4",
     "web-vitals": "^2.1.4"
